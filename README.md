@@ -1,0 +1,2 @@
+# Clickable_responsive
+クリッカブルマップのレスポンシブ対応をテストする
