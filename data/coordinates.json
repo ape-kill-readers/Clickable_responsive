@@ -1,0 +1,58 @@
+{
+  "areas": [
+    { "shape": "rect", "coords": [752, 24, 965, 206], "href": "https://www.pref.hokkaido.lg.jp/", "alt": "北海道" },
+
+    { "shape": "rect", "coords": [751, 245, 888, 298], "href": "#", "alt": "青森" },
+    { "shape": "rect", "coords": [821, 300, 887, 371], "href": "#", "alt": "岩手" },
+    { "shape": "rect", "coords": [822, 372, 888, 442], "href": "#", "alt": "宮城" },
+    { "shape": "rect", "coords": [752, 299, 821, 370], "href": "#", "alt": "秋田" },
+    { "shape": "rect", "coords": [752, 372, 820, 442], "href": "#", "alt": "山形" },
+    { "shape": "rect", "coords": [752, 443, 888, 505], "href": "#", "alt": "福島" },
+
+    { "shape": "rect", "coords": [825, 508, 888, 577], "href": "あ", "alt": "茨城" },
+    { "shape": "rect", "coords": [751, 507, 821, 553], "href": "う", "alt": "栃木" },
+    { "shape": "rect", "coords": [702, 459, 750, 541], "href": "き", "alt": "群馬" },
+    { "shape": "rect", "coords": [752, 555, 823, 584], "href": "え", "alt": "埼玉" },
+    { "shape": "rect", "coords": [824, 578, 889, 646], "href": "い", "alt": "千葉" },
+    { "shape": "rect", "coords": [753, 584, 822, 615], "href": "お", "alt": "東京" },
+    { "shape": "rect", "coords": [752, 617, 822, 646], "href": "か", "alt": "神奈川" },
+
+    { "shape": "poly", "coords": [650, 411, 649, 476, 701, 477, 702, 456, 750, 455, 750, 412, 749, 411], "href": "#", "alt": "新潟" },
+    { "shape": "rect", "coords": [599, 479, 646, 521], "href": "さ", "alt": "富山" },
+    { "shape": "rect", "coords": [548, 478, 597, 526], "href": "せ", "alt": "石川" },
+    { "shape": "rect", "coords": [522, 528, 595, 582], "href": "そ", "alt": "福井" },
+    { "shape": "rect", "coords": [702, 542, 750, 606], "href": "く", "alt": "山梨" },
+    { "shape": "rect", "coords": [648, 478, 700, 607], "href": "け", "alt": "長野" },
+    { "shape": "rect", "coords": [598, 524, 646, 635], "href": "し", "alt": "岐阜" },
+    { "shape": "rect", "coords": [648, 608, 750, 658], "href": "こ", "alt": "静岡" },
+    { "shape": "rect", "coords": [598, 637, 646, 689], "href": "す", "alt": "愛知" },
+
+    { "shape": "rect", "coords": [557, 638, 595, 716], "href": "た", "alt": "三重" },
+    { "shape": "rect", "coords": [523, 584, 596, 636], "href": "ち", "alt": "滋賀" },
+    { "shape": "rect", "coords": [470, 557, 521, 627], "href": "て", "alt": "京都" },
+    { "shape": "rect", "coords": [471, 629, 521, 682], "href": "と", "alt": "大阪" },
+    { "shape": "rect", "coords": [420, 557, 468, 661], "href": "に", "alt": "兵庫" },
+    { "shape": "rect", "coords": [523, 637, 556, 715], "href": "つ", "alt": "奈良" },
+    { "shape": "rect", "coords": [469, 682, 521, 746], "href": "な", "alt": "和歌山" },
+
+    { "shape": "rect", "coords": [366, 557, 419, 608], "href": "ぬ", "alt": "鳥取" },
+    { "shape": "rect", "coords": [312, 557, 364, 608], "href": "の", "alt": "島根" },
+    { "shape": "rect", "coords": [365, 609, 418, 661], "href": "ね", "alt": "岡山" },
+    { "shape": "rect", "coords": [312, 609, 364, 659], "href": "は", "alt": "広島" },
+    { "shape": "rect", "coords": [274, 557, 310, 662], "href": "ひ", "alt": "山口" },
+
+    { "shape": "rect", "coords": [379, 734, 442, 783], "href": "へ", "alt": "徳島" },
+    { "shape": "rect", "coords": [355, 685, 442, 733], "href": "ふ", "alt": "香川" },
+    { "shape": "rect", "coords": [273, 686, 354, 733], "href": "ほ", "alt": "愛媛" },
+    { "shape": "rect", "coords": [273, 733, 378, 782], "href": "ま", "alt": "高知" },
+
+    { "shape": "rect", "coords": [141, 559, 244, 611], "href": "み", "alt": "福岡" },
+    { "shape": "rect", "coords": [105, 559, 140, 651], "href": "や", "alt": "佐賀" },
+    { "shape": "rect", "coords": [71, 559, 104, 650], "href": "ゆ", "alt": "長崎" },
+    { "shape": "rect", "coords": [140, 612, 193, 716], "href": "め", "alt": "熊本" },
+    { "shape": "rect", "coords": [193, 612, 244, 690], "href": "む", "alt": "大分" },
+    { "shape": "rect", "coords": [194, 690, 243, 785], "href": "も", "alt": "宮崎" },
+    { "shape": "rect", "coords": [140, 716, 193, 811], "href": "よ", "alt": "鹿児島" },
+    { "shape": "rect", "coords": [33, 733, 72, 813], "href": "ら", "alt": "沖縄" }
+  ]
+}
